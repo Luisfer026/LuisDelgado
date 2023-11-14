@@ -1,0 +1,16 @@
+[
+    {
+    "id": "1",
+    "title": "Hamburguesa",
+    "description": "Deliciosa hamburguesa con queso, lechuga y tomate",
+    "price": "$15"
+    },
+
+    
+        {
+        "id": "2",
+        "title": "Pizza",
+        "description": "Deliciosa pizza de pepperoni y queso",
+        "price": "$10"
+        }
+ ]         

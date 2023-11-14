@@ -10,6 +10,7 @@ const Navbar = ()=> {
                 <li><a href="menu">menus</a></li>
                 <li><a href="mas">sobre nosotros</a></li>
             </ul>
+            <CartWidget />
         </nav>
     )
 }
